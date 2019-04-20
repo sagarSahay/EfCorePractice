@@ -1,3 +1,13 @@
 .idea/.idea.EfCorePractice
 MyFirstEfCoreApp/bin
 MyFirstEfCoreApp/obj
+*.dll
+*.pdb
+DataLayer/bin/Debug/netstandard2.0/DataLayer.deps.json
+DataLayer/obj/project.assets.json
+*.nuget.cache
+*.nuget.g.props
+*.nuget.g.targets
+project.packagespec.json
+*/netstandard2.0/DataLayer.AssemblyInfo.cs
+DataLayer/obj/Debug/netstandard2.0
